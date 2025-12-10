@@ -1,0 +1,482 @@
+Think you are an elite enterprise-grade full-stack front-end architect, senior UI/UX director, cinematic motion designer, performance engineer, and production-level build expert with 15+ years of experience building premium technology and creative studio platforms.
+
+Your task is to build the complete, production-ready web application for my agency “Quickserve IT” from scratch, inside this workspace, with real working code, real structure, real animations, real performance optimization, and real deployment readiness. This is not a concept, not a demo, and not a wireframe. This is a final, real website project that I will push to GitHub and deploy on Vercel.
+
+You must design through code, engineer everything professionally, and ensure the site looks, feels, and performs like a million-dollar private technology & cinematic creative studio platform.
+
+✅ 1. BRAND & POSITIONING (ABSOLUTE RULE)
+
+Brand Name everywhere in UI:
+→ Quickserve IT
+
+Do NOT show .online anywhere in the visible interface.
+
+The domain will be used later only for hosting (example: quickserveit.online), not as branding.
+
+The website must feel like:
+
+A confidential institutional technology partner
+
+A futuristic cinematic AI-powered creative studio
+
+A high-trust, high-status digital operation
+
+The brand personality must communicate:
+
+Authority
+
+Precision
+
+Speed
+
+Security
+
+Innovation
+
+Creative dominance
+
+✅ 2. TECHNOLOGY STACK (STRICTLY ENFORCED)
+
+You must build using:
+
+Framework: Next.js (App Router)
+
+Language: TypeScript (strict mode)
+
+Styling: Tailwind CSS + CSS variables
+
+Animations: Framer Motion (GPU-only animations)
+
+Particles: Lightweight Canvas 2D particle engine
+
+Rendering: 100% Static Export (No backend, no server functions, no API routes)
+
+Deployment: Vercel-ready
+
+Code Quality: ESLint + Prettier
+
+This must be a fully static, front-end-only web app, optimized for:
+
+Desktop
+
+Laptop
+
+Tablet
+
+Mobile
+
+✅ 3. RESPONSIVE & AUTO-ADJUSTABLE DESIGN (VERY IMPORTANT)
+
+The website must be:
+
+Fully responsive
+
+Fluid auto-adjusting layout
+
+Perfect on:
+
+4K monitors
+
+Standard laptops
+
+Tablets
+
+Mobile phones (small & large)
+
+Rules:
+
+Layout must auto-scale using fluid grids.
+
+Font sizes must auto-adjust using responsive typography.
+
+Particles & heavy effects must auto-reduce on mobile for performance.
+
+No element must ever break, overflow, or clip on any screen size.
+
+This is a premium adaptive UI system, not a fixed layout.
+
+✅ 4. DUAL EXPERIENCE SYSTEM (VERY IMPORTANT)
+
+The website must operate in two distinct emotional & visual modes:
+
+1️⃣ Corporate Command Mode
+
+Used on:
+
+Home
+
+Institute Services
+
+Pricing
+
+About
+
+Contact
+This mode must feel:
+
+Serious
+
+Government-grade
+
+Secure
+
+Structured
+
+Calm
+
+Trust-driven
+
+2️⃣ Cinematic AI Studio Mode
+
+Used on:
+
+Creative Studio
+
+Portfolio
+This mode must feel:
+
+Cinematic
+
+Futuristic
+
+Creative
+
+AI-powered
+
+Emotionally inspiring
+
+Visually powerful
+
+The transition between these two modes must feel like entering a new digital world, not just a color change.
+
+✅ 5. GLOBAL VISUAL SYSTEM
+🎨 Colors
+
+Deep Carbon Black for main backgrounds
+
+Premium Gold / Royal Yellow for:
+
+CTAs
+
+Active states
+
+Highlights
+
+AI Blue rim-light ONLY inside Creative Studio & Portfolio
+
+No neon.
+No childish gradients.
+Everything must feel luxury, controlled, and expensive.
+
+✅ 6. CORE INTERACTION SYSTEMS (MUST BE BUILT)
+✅ Cursor-Reactive Particle System
+
+Built using Canvas 2D
+
+Slow floating particles
+
+Cursor creates repulsion effect
+
+Particles intelligently move away from cursor
+
+Automatic performance throttling on mobile
+
+Auto-disable on prefers-reduced-motion
+
+Particles change energy level in Creative Studio mode
+
+✅ Typewriter Text System
+
+Used ONLY on:
+
+Hero headline
+
+Cinematic scene titles
+
+Smooth character reveal
+
+Elegant blinking cursor
+
+Looks like AI thinking live
+
+✅ Premium Button System
+
+All buttons must have:
+
+Gold glowing edges
+
+Soft fade hover
+
+Micro scale interaction
+
+Light sweep reflection
+
+✅ Dynamic Time-Based Greeting System
+
+Morning → “Good morning, let’s build something powerful today.”
+
+Afternoon → “Good afternoon, ready to upgrade your workflow?”
+
+Late Night → “Late-night work? Quickserve IT is ready.”
+
+This must be automatic and animated softly.
+
+✅ Auto-Refreshing Insight Box
+
+A smart box that shows:
+
+Tips
+
+Quotes
+
+Creative & business wisdom
+
+Changes on every page reload
+
+Soft glow + fade-in animation
+
+✅ 7. REQUIRED PAGES (ALL MUST BE BUILT)
+
+You must fully build:
+
+/ → Home (Command Center)
+
+/institute-services
+
+/creative-studio
+
+/portfolio
+
+/pricing
+
+/about
+
+/contact
+
+/legal/terms
+
+/legal/privacy
+
+/legal/disclaimer
+
+Each page must include:
+
+SEO metadata
+
+Unique layout
+
+Unique motion behavior
+
+Fully responsive structure
+
+✅ 8. HOMEPAGE — QUICKSERVE IT DIGITAL COMMAND CENTER
+
+The homepage must instantly communicate:
+
+Power
+
+Trust
+
+Innovation
+
+The hero section must include:
+
+Brand Name: Quickserve IT
+
+Powerful agency tagline
+
+Dynamic time-based greeting
+
+Typewriter animated line
+
+CTAs:
+
+“Get Started”
+
+“Our Services”
+
+“Send on WhatsApp”
+
+Trust badges:
+
+Confidential
+
+On-Campus
+
+Emergency Ready
+
+Background:
+
+Cinematic particle field
+
+Subtle gold energy glow
+
+Depth illusion
+
+Below hero:
+
+Institute Services preview
+
+Creative Studio preview
+
+Portfolio preview
+
+Why Choose Us / Trust pillars
+
+✅ 9. INSTITUTE SERVICES — CORPORATE MODE
+
+Design must be:
+
+Government-grade
+
+Calm
+
+Structured
+
+Each service must clearly show:
+
+Problem
+
+Solution
+
+Delivery process
+
+Security assurance
+
+Emergency availability
+
+✅ 10. CREATIVE STUDIO — CINEMATIC AI MODE
+
+This page must feel like entering:
+
+A futuristic AI film studio
+
+A digital production lab
+
+Features:
+
+Cinematic scene-based layout
+
+Parallax depth scroll
+
+Energetic particles
+
+AI-style light overlays
+
+Film-title animations
+
+Creative services must include:
+
+Video Editing
+
+Branding
+
+Motion Graphics
+
+VFX
+
+Content Strategy
+
+Each as a cinematic scene, not a normal section.
+
+✅ 11. PORTFOLIO — CLASSIFIED VAULT
+
+Must feel like:
+
+A projection room
+
+A classified studio archive
+
+Hover effects:
+
+Film reel activation
+
+Light sweep
+
+Metadata reveal
+
+✅ 12. PRICING — PREMIUM STRUCTURE
+
+Per-task
+
+Monthly retainers
+
+Institutional contracts
+
+Emergency priority tiers
+
+No discount words.
+No cheap marketing tone.
+
+✅ 13. ABOUT — TRUST & VISION
+
+Founder story
+
+Mission & values
+
+Why institutions & creators trust Quickserve IT
+
+Future roadmap
+
+✅ 14. CONTACT — SECURE ACCESS PORTAL
+
+Static contact form
+
+“Secure WhatsApp Channel” button
+
+“Client Upload Vault” (Drive placeholder)
+
+Calm, safe, high-trust UI
+
+✅ 15. PERFORMANCE, SEO & ACCESSIBILITY (STRICT)
+
+Lighthouse Desktop ≥ 90
+
+Lighthouse Mobile ≥ 85
+
+GPU-only animations
+
+Lazy loading for heavy sections
+
+Optimized images
+
+Keyboard navigation
+
+Screen reader landmarks
+
+High contrast compliance
+
+OpenGraph + Twitter cards
+
+Sitemap + robots.txt
+
+✅ 16. FINAL BUILD COMMAND
+
+Now build the entire Quickserve IT web application inside this project with:
+
+All pages
+
+All components
+
+All animations
+
+All utilities
+
+All performance optimizations
+
+All documentation files
+
+Complete folder structure
+
+Ready for GitHub push
+
+Ready for Vercel deployment
+
+Do not leave anything half-done.
+Do not output theory.
+Do not output only UI.
+Do not skip animations.
+Do not skip responsiveness.
+Do not skip performance rules.
+
+This is a complete production-grade agency web app build.
